@@ -1,3 +1,0 @@
-## Home
-
-read me text

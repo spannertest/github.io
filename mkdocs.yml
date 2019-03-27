@@ -1,8 +1,0 @@
-site_name: Test site
-nav:
-  - Home: 
-    - 'home.md'
-    - 'home2.md'
-  - Away: 
-    - 'index.md'
-    - 'index2.md'
